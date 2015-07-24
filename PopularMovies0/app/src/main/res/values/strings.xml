@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Popular Movies 0</string>
+
+    <string name="action_popularity_DESC">Least Popular First</string>
+    <string name="action_popularity_ASC">Popularity DESC</string>
+
+    <string name="action_rating_DESC">Lowest Rating first</string>
+    <string name="action_rating_ASC">Rating ASC</string>
+
+    <string name="moviedetail_title">Movie Title</string>
+
+    <string name="moviedetail_releaseyeartitle">Release</string>
+    <string name="moviedetail_releaseyear">2015</string>
+
+    <string name="moviedetail_duration">120min</string>
+
+    <string name="moviedetail_ratingtitle">User Rating</string>
+    <string name="moviedetail_rating">8.1/10</string>
+
+    <string name="moviedetail_popularitytitle">Popularity</string>
+    <string name="moviedetail_popularity">8.1/10</string>
+
+    <string name="moviedetail_synopsis">The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John\'s fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.</string>
+
+</resources>
