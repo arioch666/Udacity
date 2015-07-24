@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normalButtonBackground">@android:color/holo_orange_dark</color>
+    <color name="highlightButtonBackground">@android:color/holo_red_dark</color>
+    <color name="highlightButtonTextColor">@android:color/white</color>
+
+    <color name="titleTextColor">@android:color/black</color>
+
+    <color name="contentBackground">#ffdfeaf1</color>
+</resources>

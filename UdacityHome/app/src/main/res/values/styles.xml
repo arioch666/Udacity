@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    
+    <style name="NormalButton" parent="AppTheme">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/normalButtonWidth</item>
+        <item name="android:background">@color/normalButtonBackground</item>
+        <item name="android:layout_margin">@dimen/normalButtonLayoutMargin</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+
+    <style name="HighlightButton" parent="NormalButton">
+        <item name="android:background">@color/highlightButtonBackground</item>
+        <item name="android:textColor">@color/highlightButtonTextColor</item>
+    </style>
+
+</resources>
