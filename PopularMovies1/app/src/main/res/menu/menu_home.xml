@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".Home">
+
+    <item
+        android:id="@+id/action_sortByMoviePopularity_DESC"
+        android:orderInCategory="100"
+        android:title="@string/action_popularity_DESC"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sortByMovieRating_DESC"
+        android:orderInCategory="100"
+        android:title="@string/action_rating_DESC"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sortByMoviePopularity_ASC"
+        android:orderInCategory="100"
+        android:title="@string/action_popularity_ASC"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_sortByMovieRating_ASC"
+        android:orderInCategory="100"
+        android:title="@string/action_rating_ASC"
+        app:showAsAction="never"/>
+
+</menu>
